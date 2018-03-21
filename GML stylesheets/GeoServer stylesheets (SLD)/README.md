@@ -24,9 +24,8 @@ We recommend viewing the data with OS MasterMap Topography Layer in either Backd
 
 Your map should look similar to this: 
 
-  ![Screenshot](https://raw.githubusercontent.com/OrdnanceSurvey/OS-MasterMap-Greenspace-stylesheets/master/GML%20stylesheets/GeoServer%20stylesheets%20%28SLD%29/images/Greenspace_Screenshot.png "Screenshot of OS MasterMap Greenspace over Topography Layer")
-
-
+  ![Screenshot](https://github.com/OrdnanceSurvey/OS-MasterMap-Greenspace-stylesheets/blob/master/GML%20stylesheets/GeoServer%20stylesheets%20(SLD)/images/Greenspace_screenshot.png "Screenshot of OS MasterMap Greenspace over Topography Layer")
+  
 There is also a folder entitled 'alternative-styles' with slightly modified stylesheets (SLDs) better suited to traditional 'green' style Topography Layer and Imagery Layer.
 
 

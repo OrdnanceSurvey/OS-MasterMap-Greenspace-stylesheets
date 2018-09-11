@@ -35,7 +35,7 @@ There is also a folder entitled 'alternative-styles' with slightly modified styl
 
 [More information about how to download, apply and customise our stylesheets including a Stylesheet User Guide](http://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html)
 
-[More information about OS VectorMap District](http://www.ordnancesurvey.co.uk/business-and-government/products/os-mastermap-greenspace.html)
+[More information about OS MasterMap Greenspace Layer](http://www.ordnancesurvey.co.uk/business-and-government/products/os-mastermap-greenspace.html)
 
 [More information about cartographic design at Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/)
 

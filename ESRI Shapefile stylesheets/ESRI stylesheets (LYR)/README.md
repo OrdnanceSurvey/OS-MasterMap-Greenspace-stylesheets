@@ -1,6 +1,6 @@
 ﻿# OS MasterMap Greenspace Layer
 
-These are LYR files for OS MasterMap Greenspace Layer in ESRI Shapefile format for use in ESRI ArcGIS.
+These are **LYR** files for OS MasterMap Greenspace Layer in **ESRI Shapefile** format for use in **ESRI ArcGIS**.
 
 *They have been designed to work with the data as it is supplied.*
 
@@ -40,11 +40,9 @@ Our Layer Files are compatible with versions of ESRI ArcGIS back to version 9.3 
 
 Scale limits can be turned off from the General tab of Layer Properties.
 
-[More information about how to download, apply and customise our stylesheets including a Stylesheet User Guide](http://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html)
+[For more information about data styling and visualisation, take a look at our GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
 
 [More information about OS VectorMap District](http://www.ordnancesurvey.co.uk/business-and-government/products/os-mastermap-greenspace.html)
-
-[More information about cartographic design at Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/)
 
 ## Licence
 

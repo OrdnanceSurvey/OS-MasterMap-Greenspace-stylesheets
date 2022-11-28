@@ -1,6 +1,6 @@
 ﻿# OS MasterMap Greenspace Layer
 
-These are SLD files for OS MasterMap Greenspace Layer in ESRI Shapefile format for use in GeoServer.
+These are **SLD** files for OS MasterMap Greenspace Layer in **ESRI Shapefile** format for use in **GeoServer**.
 
 *They have been designed to work with the data as it is supplied.*
 
@@ -33,11 +33,9 @@ There is also a folder entitled 'alternative-styles' with slightly modified styl
 
 ## Additional information
 
-[More information about how to download, apply and customise our stylesheets including a Stylesheet User Guide](http://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html)
+[For more information about data styling and visualisation, take a look at our GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
 
 [More information about OS MasterMap Greenspace Layer](http://www.ordnancesurvey.co.uk/business-and-government/products/os-mastermap-greenspace.html)
-
-[More information about cartographic design at Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/)
 
 ## Licence
 
